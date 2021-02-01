@@ -1,6 +1,12 @@
 ### Hi there 👋
 ![](https://komarev.com/ghpvc/?username=shaileshhb&color=aee1e1)
 
+const thai = {
+  pronouns: "he" | "him",
+  code: [Javascript, Typescript, HTML, CSS, Python, Java],
+  tools: [Angular]
+}
+
 - 💬 Ask me about Go
 <!--
 **shaileshhb/shaileshhb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
