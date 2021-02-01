@@ -1,5 +1,4 @@
 
-![](https://komarev.com/ghpvc/?username=shaileshhb&color=aee1e1)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=shaileshhb)
 <!--
 **shaileshhb/shaileshhb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
