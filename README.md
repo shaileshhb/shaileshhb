@@ -1,14 +1,13 @@
 ### Hi there 👋
-![](https://komarev.com/ghpvc/?username=shaileshhb&color=dc143c)
+![](https://komarev.com/ghpvc/?username=shaileshhb&color=aee1e1)
 
-- 🔭 I’m currently working at Swabhav Techlabs
 - 💬 Ask me about Go
 <!--
 **shaileshhb/shaileshhb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-
+- 🔭 I’m currently working on 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
